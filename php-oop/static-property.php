@@ -20,3 +20,4 @@ class Blender extends Product
 echo Product::$totalProduct;
 echo Blender::$totalProduct;
 echo Product::cekProduct();
+
