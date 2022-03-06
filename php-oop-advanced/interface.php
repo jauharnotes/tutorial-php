@@ -6,7 +6,7 @@ interface ProdukEkspor {
 }
 
 interface ProdukMakanan {
-    public function cekExpired();
+    public function cekExpired();   
 }
 
 interface ProdukMakananBeku {
